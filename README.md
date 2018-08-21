@@ -39,10 +39,10 @@ If you see any errors, read the output and try to follow any instructions. If th
 
 ### Intro
 
-1. Bare-bones React rendering - [`intro/exercises/01-js.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/01-js.html)
-2. React rendering with JSX - [`intro/exercises/02-jsx.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/02-jsx.html)
-3. Custom React Components - [`intro/exercises/03-components.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/03-components.html)
-4. Re-rendering - [`intro/exercises/04-re-rendering.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/04-re-rendering.html)
+1. Bare-bones React rendering - [`intro/exercises/01_js.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/01-js.html)
+2. React rendering with JSX - [`intro/exercises/02_jsx.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/02-jsx.html)
+3. Custom React Components - [`intro/exercises/03_components.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/03-components.html)
+4. Re-rendering - [`intro/exercises/04_re-rendering.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/04-re-rendering.html)
 
 ### Concepts
 
