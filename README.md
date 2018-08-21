@@ -1,15 +1,11 @@
 # Workshop For React
 
-[![Build Status][build-badge]][build]
-[![MIT License][license-badge]][LICENSE]
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
-[![PRs Welcome][prs-badge]][prs]
-
+A helpful repo while conducting a React workshop 😄 🚀
 
 ## Thanks goes to
 
-- [Create React App][create-react-app].
-- [Kent C. Dodds][Kent] for his [react-workshop][original-repo] upon which this one is based.
+- [Create React App](https://github.com/facebook/create-react-app).
+- [Kent C. Dodds](https://github.com/kentcdodds/react-workshop) for his [react-workshop](https://github.com/kentcdodds/react-workshop) upon which this one is based.
 - [React Docs](http://facebook.github.io/react). Some examples have been lifted from there.
 
 ## Note
@@ -37,16 +33,16 @@ If you want to explore a bit, there are a few things you can do:
 ### Any errors?
 
 If you see any errors, read the output and try to follow any instructions. If that doesn't work, feel free to
-[file an issue][issues] to ask for help and I'll help if I can. Good luck!
+[file an issue](https://github.com/j33n/workshop-for-react/issues/new) to ask for help and I'll help if I can. Good luck!
 
 ## Outline
 
 ### Intro
 
-1. Bare-bones React rendering - [`intro/exercises/01-js.html`](https://github.com/j33n/workshop-for-react/blob/master/intro/exercises/01-js.html)
-2. React rendering with JSX - [`intro/exercises/02-jsx.html`](https://github.com/j33n/workshop-for-react/blob/master/intro/exercises/02-jsx.html)
-3. Custom React Components - [`intro/exercises/03-components.html`](https://github.com/j33n/workshop-for-react/blob/master/intro/exercises/03-components.html)
-4. Re-rendering - [`intro/exercises/04-re-rendering.html`](https://github.com/j33n/workshop-for-react/blob/master/intro/exercises/04-re-rendering.html)
+1. Bare-bones React rendering - [`intro/exercises/01-js.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/01-js.html)
+2. React rendering with JSX - [`intro/exercises/02-jsx.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/02-jsx.html)
+3. Custom React Components - [`intro/exercises/03-components.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/03-components.html)
+4. Re-rendering - [`intro/exercises/04-re-rendering.html`](https://github.com/j33n/workshop-for-react/blob/master/basic/exercises/04-re-rendering.html)
 
 ### Concepts
 
@@ -69,4 +65,3 @@ Contributions of any kind welcome!
 ## LICENSE
 
 MIT
-
