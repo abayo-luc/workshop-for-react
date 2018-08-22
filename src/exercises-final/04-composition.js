@@ -72,11 +72,11 @@ Icon.propTypes = {
 
 export const Example = () => (
   <Person
-    name="Kent C. Dodds"
+    name="Jean Abayo"
     title="JavaScript Developer"
-    avatar="http://kentcdodds.com/photo-512.png"
-    twitter="kentcdodds"
-    github="kentcdodds"
+    avatar="http://github.com/j33n.png"
+    twitter="jeanabayo"
+    github="jeanabayo"
   />
 )
 

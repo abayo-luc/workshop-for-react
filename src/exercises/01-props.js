@@ -7,6 +7,9 @@ function SayHello(props) {
 }
 // export an example that specifies a firstName and a lastName
 // as props to the SayHello component
+
+// Demonstrate usage of the spread operator and destructuring
+
 export const Example = () => <div>Incomplete</div>
 
 export default SayHello

@@ -78,7 +78,7 @@ RepoList.propTypes = {
 }
 
 export const Example = () => (
-  <RepoListContainer username="kentcdodds" fetch={mockFetch} />
+  <RepoListContainer username="j33n" fetch={mockFetch} />
 )
 
 // This is for you. Merry Christmas 🎅 🎄 🎁
